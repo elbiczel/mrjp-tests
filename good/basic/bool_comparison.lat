@@ -1,0 +1,10 @@
+// Author: Tomasz Biczel 277568
+int main() {
+    boolean a, b;
+    a = true;
+    b = false;
+    if (a > b) {
+        printString("Wieksze");
+    }
+    return 0;
+}
